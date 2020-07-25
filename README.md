@@ -1,6 +1,14 @@
 # ATM_Java
 Java Solution without Spring Boot for ATM Problem
 
+# Steps to run the program
+Step 1 - Generate the Jar File
+Step 2
+a. Execute the Jar file using the command -> java -jar ATM.jar 1,50,10,20
+b. You can also executing java -jar ATM.jar -> The program will take default denominations
+
+# Problem Statement
+
 Develop a program called ATM. It allows customers to deposit and withdraw in these denominations: 20, 10, 5, and 1 dollar bills.
 
 Deposit: Customer inputs the number of currency notes in each denomination

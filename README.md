@@ -2,10 +2,11 @@
 Java Solution without Spring Boot for ATM Problem
 
 # Steps to run the program
-Step 1 - Generate the Jar File
-Step 2
-a. Execute the Jar file using the command -> java -jar ATM.jar 1,50,10,20
-b. You can also executing java -jar ATM.jar -> The program will take default denominations
+# Step 1
+Generate the Jar File
+# Step 2
+a. Execute the Jar file using the command -> java -jar ATM.jar 1,50,10,20 <br />
+b. You can also executing java -jar ATM.jar -> The program will take default denominations<br />
 
 # Problem Statement
 
